@@ -1,5 +1,6 @@
-# 2022-3m-6m
-Unreal_Multi_Game (3d + 2d Adventure Game)
+# Game Within Game
+2022-3m-6m 동안 제작한 Unreal_Multi_Game 게임입니다. 
+(3d + 2d Adventure Game)
 
 ### 3D와 2D를 이동하며 플레이 하는 방식의 어드벤처/멀티 플레이 게임입니다.
 ***
